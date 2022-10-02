@@ -1,4 +1,4 @@
-# CLItRS
+# CLI-RS
 
 ## Command Line Interface to Rust.
 
